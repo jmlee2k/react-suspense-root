@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcra_test=self.webpackChunkcra_test||[]).push([[778],{778:function(e,n,r){r.r(n),r.d(n,{default:function(){return s}});var t=r(791),u=r(184),c=(0,t.lazy)((function(){return r.e(411).then(r.bind(r,411))}));function s(){var e=(0,t.useRef)(0);return e.current++,console.log("rendering TestApp - counter",e.current),(0,u.jsx)(t.Suspense,{fallback:(0,u.jsx)("p",{children:"loading B..."}),children:(0,u.jsx)(c,{})})}}}]);
+//# sourceMappingURL=778.a0d4f069.chunk.js.map

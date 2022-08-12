@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcra_test=self.webpackChunkcra_test||[]).push([[778],{778:function(n,e,t){t.r(e),t.d(e,{default:function(){return u}});var r=t(791),s=t(184),c=(0,r.lazy)((function(){return t.e(411).then(t.bind(t,411))}));function u(){return console.log("rendering TestApp"),(0,s.jsx)(r.Suspense,{fallback:(0,s.jsx)("p",{children:"loading B..."}),children:(0,s.jsx)(c,{})})}}}]);
-//# sourceMappingURL=778.afbe67fc.chunk.js.map
